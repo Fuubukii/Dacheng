@@ -4,10 +4,8 @@ date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/banners/plain MDF.jpg"
-authors = ["Fubuki"]
+authors = ["zenx"]
 +++
-
-<img src="img/banners/plain MDF.jpg">
 
 The medium density board (MDF) is fully called density fiberboard. It is a board made of wood fiber or other plant fiber as raw materials, prepared by fiber, applied with synthetic resin, and pressed under the conditions of heating and pressure.
 
