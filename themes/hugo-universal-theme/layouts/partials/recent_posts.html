@@ -12,7 +12,7 @@
               {{ .Site.Params.recent_posts.subtitle | markdownify }}
             </p>
 
-            <!-- *** BLOG HOMEPAGE *** -->
+            <!-- *** blog HOMEPAGE *** -->
 
             <div class="row">
                 {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
@@ -65,7 +65,7 @@
             </div>
             <!-- /.row -->
 
-            <!-- *** BLOG HOMEPAGE END *** -->
+            <!-- *** blog HOMEPAGE END *** -->
 
         </div>
     </div>

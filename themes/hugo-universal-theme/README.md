@@ -32,7 +32,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
     - [Sidebar widgets](#sidebar-widgets)
     - [Top bar](#top-bar)
     - [Menu behavior](#menu-behavior)
-    - [Blog post thumbnails](#blog-post-thumbnails)
+    - [blog post thumbnails](#blog-post-thumbnails)
     - [Landing page](#landing-page)
       - [Carousel](#carousel)
       - [Features](#features-1)
@@ -257,7 +257,7 @@ To display 4 columns of menu items, start using sections. Sections are menu item
     post       = 3
 
 [[menu.main]]
-    name       = "Blog"
+    name       = "blog"
     identifier = "section.ap-blog"
     url        = ""
     weight     = 3
@@ -265,7 +265,7 @@ To display 4 columns of menu items, start using sections. Sections are menu item
     post       = 4
 
 [[menu.main]]
-    name       = "Blog Listing Big"
+    name       = "blog Listing Big"
     url        = "/blog/"
     weight     = 1
     parent     = "section.ap-blog"
@@ -355,7 +355,7 @@ The dropdown menu is displayed by default when the user clicks on the menu item.
     dropdown_mouse_over = true
 ```
 
-### Blog post thumbnails
+### blog post thumbnails
 
 After creating a new post you can define a banner by entering the relative path to the image.
 

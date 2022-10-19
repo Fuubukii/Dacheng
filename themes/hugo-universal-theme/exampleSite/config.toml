@@ -322,7 +322,7 @@ pluralizelisttitles = false
     post       = 4
 
 [[menu.main]]
-    name       = "Blog"
+    name       = "blog"
     identifier = "section.ap-blog"
     url        = "/blog/"
     weight     = 3
@@ -330,13 +330,13 @@ pluralizelisttitles = false
     post       = 4
 
 [[menu.main]]
-    name       = "Blog Listing Big"
+    name       = "blog Listing Big"
     url        = "/blog/"
     weight     = 1
     parent     = "section.ap-blog"
 
 [[menu.main]]
-    name       = "Blog"
+    name       = "blog"
     identifier = "menu.blog"
     url        = "/blog/"
     weight     = 5
