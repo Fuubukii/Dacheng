@@ -25,9 +25,9 @@ It has a wide range of uses, can be used in furniture manufacturing,interior dec
 
 |Size|1220x2440mm,1220x2745mm|
 |:-|:-------|
-|**Thickness**|2.0-25mm|
-|**Material**|Poplar,Pine|
-|**Core**|White core/Green core(Moisture resistant)|
-|**Glue**|TSCA,P2,E0,E1,E2|
-|**Density**| 650-700-760kgs/m³|
-|**Usage**|Furniture, Decoration, Package, Construction, etc|
+|Thickness:|2.0-25mm|
+|Material:|Poplar,Pine|
+|Core:|White core/Green core(Moisture resistant)|
+|Glue:|TSCA,P2,E0,E1,E2|
+|Density:| 650-700-760kgs/m³|
+|Usage:|Furniture, Decoration, Package, Construction, etc|
