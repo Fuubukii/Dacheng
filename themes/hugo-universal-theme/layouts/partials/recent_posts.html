@@ -12,13 +12,13 @@
               {{ .Site.Params.recent_posts.subtitle | markdownify }}
             </p>
 
-            <!-- *** blog HOMEPAGE *** -->
+            <!-- *** products HOMEPAGE *** -->
 
             <div class="row">
                 {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
                 {{ range first 4 $posts.Pages }}
                 <div class="col-md-3 col-sm-6">
-                    <div class="box-image-text blog">
+                    <div class="box-image-text products">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "banner" }}
@@ -65,7 +65,7 @@
             </div>
             <!-- /.row -->
 
-            <!-- *** blog HOMEPAGE END *** -->
+            <!-- *** products HOMEPAGE END *** -->
 
         </div>
     </div>

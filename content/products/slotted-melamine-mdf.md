@@ -8,7 +8,7 @@ banner= "img/banners/slotted-melamine-mdf.png"
 
 ![](/img/banners/slotted-melamine-mdf.png)
 
-### Information
+### Description
 <br /> 
 
 Slotted MDF panel is used mainly for display board in retail stores and supermarket. It is also can be used for furniture making and wall decoration such as shopfitting, display rack, storage cabinet and etc. 

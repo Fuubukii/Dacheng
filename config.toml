@@ -11,7 +11,7 @@ disqusShortname = "Fubukii"
 googleAnalytics = ""
 
 # number of words of summarized post content (default 70)
-summaryLength = 70
+summaryLength = 30
 
 # Define the number of posts per page
 paginate = 10
@@ -29,23 +29,23 @@ pluralizelisttitles = false
     url        = "/"
     weight     = 1
 
-[[menu.main]]
-    name       = "About us"
-    url        = "/"
-    weight     = 1
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "About us"
+#     url        = "/"
+#     weight     = 1
+#     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Customers"
-    url        = "/"
-    weight     = 2
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Customers"
+#     url        = "/"
+#     weight     = 2
+#     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Partners"
-    url        = "/"
-    weight     = 3
-    parent     = "menu.home"
+# [[menu.main]]
+#     name       = "Partners"
+#     url        = "/"
+#     weight     = 3
+#     parent     = "menu.home"
 
 [[menu.main]]
     name       = "Furniture"
@@ -151,7 +151,7 @@ pluralizelisttitles = false
 
 [[menu.main]]
     name       = "Plain MDF"
-    url        = "/blog/"
+    url        = "/products/"
     weight     = 1
     parent     = "section.MDF"
 
@@ -330,23 +330,23 @@ pluralizelisttitles = false
 #     post       = 4
 
 # [[menu.main]]
-#     name       = "blog"
-#     identifier = "section.ap-blog"
-#     url        = "/blog/"
+#     name       = "products"
+#     identifier = "section.ap-products"
+#     url        = "/products/"
 #     weight     = 3
 #     parent     = "menu.allpages"
 #     post       = 4
 
 # [[menu.main]]
-#     name       = "blog Listing Big"
-#     url        = "/blog/"
+#     name       = "products Listing Big"
+#     url        = "/products/"
 #     weight     = 1
-#     parent     = "section.ap-blog"
+#     parent     = "section.ap-products"
 
 # [[menu.main]]
-#     name       = "blog"
-#     identifier = "menu.blog"
-#     url        = "/blog/"
+#     name       = "products"
+#     identifier = "menu.products"
+#     url        = "/products/"
 #     weight     = 5
 
 # [[menu.main]]
@@ -395,10 +395,10 @@ pluralizelisttitles = false
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
-    viewMorePostLink = "/blog/"
+    viewMorePostLink = "/products/"
     author = "Fubuki"
     defaultKeywords = ["devcows", "hugo", "go"]
-    mainSections = ["blog"]
+    mainSections = ["products"]
     defaultDescription = "Site template made by Devcows using Hugo"
 
     # Social media
@@ -475,7 +475,7 @@ pluralizelisttitles = false
       """
 
 [permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    products = "/:filename/"
 
 # Enable or disable top bar with social icons
 [params.topbar]
@@ -526,7 +526,7 @@ pluralizelisttitles = false
     # at 'exampleSite/data/testimonials'.
     # For more information take a look at the README.
     title = "Testimonials"
-    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said plywood us."
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
     enable = false
@@ -546,8 +546,8 @@ pluralizelisttitles = false
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "ProductS"
+    subtitle = "We supply a huge range of building materials and furnitures such as plywood, MDF Board, Particle Board，bookcases，wardrobe and shoe cabinets etc, supporting OEM and ODM. Welcome to contact us to know more."
     hide_summary = false
 
 [params.footer.recent_posts]

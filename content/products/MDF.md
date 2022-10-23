@@ -8,7 +8,7 @@ banner= "img/banners/plain-MDF.jpg"
 
 ![](/img/banners/plain-MDF.jpg)
 
-### Information
+### Description
 <br /> 
 
 The medium density board (MDF) is fully called density fiberboard. It is a board made of wood fiber or other plant fiber as raw materials, prepared by fiber, applied with synthetic resin, and pressed under the conditions of heating and pressure.

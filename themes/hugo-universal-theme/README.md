@@ -32,7 +32,7 @@ This Hugo theme was ported from [Bootstrapious](http://bootstrapious.com/p/unive
     - [Sidebar widgets](#sidebar-widgets)
     - [Top bar](#top-bar)
     - [Menu behavior](#menu-behavior)
-    - [blog post thumbnails](#blog-post-thumbnails)
+    - [products post thumbnails](#products-post-thumbnails)
     - [Landing page](#landing-page)
       - [Carousel](#carousel)
       - [Features](#features-1)
@@ -257,18 +257,18 @@ To display 4 columns of menu items, start using sections. Sections are menu item
     post       = 3
 
 [[menu.main]]
-    name       = "blog"
-    identifier = "section.ap-blog"
+    name       = "products"
+    identifier = "section.ap-products"
     url        = ""
     weight     = 3
     parent     = "menu.allpages"
     post       = 4
 
 [[menu.main]]
-    name       = "blog Listing Big"
-    url        = "/blog/"
+    name       = "products Listing Big"
+    url        = "/products/"
     weight     = 1
-    parent     = "section.ap-blog"
+    parent     = "section.ap-products"
 
 ```
 
@@ -280,7 +280,7 @@ Each of these entries contain values for both the `weight` and `post` attribute.
 to indicate in which column a section will be put in. Within a column, the `weight` value is respected to show the
 sections top to bottom.
 
-Use to the unique section identifier (e.g. `section.ap-blog`) as the `parent` value to add a menu item to a specific
+Use to the unique section identifier (e.g. `section.ap-products`) as the `parent` value to add a menu item to a specific
 section. Using `weight` and `post` on the sections allow you to balance the columns with approximately the same
 amount of entries.
 
@@ -303,7 +303,7 @@ When using an image, don't configure section menu items in column 3 or 4. **Thes
 
 ### Sidebar widgets
 
-You can enable/disable the sidebar widgets that will be shown in the blog section. The following widgets are currently available:
+You can enable/disable the sidebar widgets that will be shown in the products section. The following widgets are currently available:
 
 * Search bar (powered by Google)
 * Categories list
@@ -355,7 +355,7 @@ The dropdown menu is displayed by default when the user clicks on the menu item.
     dropdown_mouse_over = true
 ```
 
-### blog post thumbnails
+### products post thumbnails
 
 After creating a new post you can define a banner by entering the relative path to the image.
 
@@ -538,7 +538,7 @@ Then, you can enable the section in the configuration file.
 
 #### Recent posts
 
-The recent posts sections shows the four latest published blog posts, with their featured image and an optional summary. It defaults to show recent posts from all [main sections](https://gohugo.io/functions/where/#mainsections). This is either the section with the most posts or can be set explicitly in the configuration file (see linked docs).
+The recent posts sections shows the four latest published products posts, with their featured image and an optional summary. It defaults to show recent posts from all [main sections](https://gohugo.io/functions/where/#mainsections). This is either the section with the most posts or can be set explicitly in the configuration file (see linked docs).
 
 You can enable it in the configuration file.
 
@@ -547,13 +547,13 @@ summaryLength = 70
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "From our products"
     subtitle = "Pellen"
     hide_summary = false
 ```
 
 Recent posts use `.Summary` property and by default, Hugo automatically takes the first 70 words of your content as its summary and stores it into the `.Summary` page variable for use in your templates. You may customize the summary length by setting summaryLength in your site configuration.
-When setting the `hide_summary` configuration property to `true` the summary will be hidden on the recent posts as well as the blogs list page.
+When setting the `hide_summary` configuration property to `true` the summary will be hidden on the recent posts as well as the productss list page.
 
 #### Footer
 

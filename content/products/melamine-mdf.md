@@ -8,7 +8,7 @@ banner= "img/banners/melamine-mdf.jpg"
 
 ![](/img/banners/melamine-mdf.jpg)
 
-### Information
+### Description
 
 <br /> 
 

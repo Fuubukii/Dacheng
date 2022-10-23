@@ -7,12 +7,13 @@ banner= "img/banners/veneer-mdf.jpg"
 
 ![](/img/banners/veneer-mdf.jpg)
 
-### Information
+### IDescription
 <br /> 
 
 ***
 <br /> 
 <br /> 
+
 ### Product Information
 <br /> 
 
