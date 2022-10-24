@@ -1,6 +1,7 @@
 weight: 2
-title: "Building Materials  "
+title: "Building Materials"
 description: "<p>We supply a huge range of building materials for various applications.
 <br>Plywood, MDF, Melamine Board,<br>Particle Board,etc.</p>"
 image: "img/carousel/building-materials.jpg"
-  
+url: "/categories/building-materials/"
+# href: "https://dachengply.com/categories/building-materials/"
