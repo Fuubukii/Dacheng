@@ -1,12 +1,12 @@
 +++
-title = "FAQ"
-description = "Frequently asked questions"
-keywords = ["FAQ","How do I","questions","what if"]
+title = "About us"
+
 +++
 
-<!-- Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+Qingdao Dacheng International Trading Company was established in 2016. Product range includes plywood, MDF Board, Particle Board, bookcases and shoe cabinets etc., supporting OEM and ODM. Our strength lies in our cooperation with many manufacturing companies, which are densely located in Shandong, China.</p>
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+
+<!-- ## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
@@ -40,4 +40,4 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 ---
 
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you. -->
+> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you. --> -->
