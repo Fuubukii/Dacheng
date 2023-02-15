@@ -479,8 +479,8 @@ pluralizelisttitles = false
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = false
-    text = """<p class="hidden-sm hidden-xs">Contact us on +86 135 832 96810 or 505723147@qq.com.</p>
+    enable = true
+    text = """<p class="hidden-sm hidden-xs">Contact us on +86 135 832 96810 Emily Tsui</p>
       <p class="hidden-md hidden-lg"><a href="tel:+86 135 8329 6810" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:505723147@qq.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
