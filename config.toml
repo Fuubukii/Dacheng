@@ -391,7 +391,7 @@ pluralizelisttitles = false
 [[menu.topbar]]
     weight = 5
     name = "Email"
-    url = "mailto:505723147@qq.com"
+    url = "mailto:happybirthday5522@gmail.com"
     pre = "<i class='fas fa-2x fa-envelope'></i>"
 
 [params]
